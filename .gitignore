@@ -1,0 +1,9 @@
+/node_modules
+/platforms
+
+npm-debug.log
+src/app/**/*.js
+src/app/**/*.js.map
+
+.vscode
+.idea
